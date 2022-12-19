@@ -2,7 +2,7 @@
 
 # Hey there! 👋
 
-My name's _John Pevien_. A frontend developer from the Philippines :philippines:. Currently working as a remote dev for an AUS based company.
+My name's _John Pevien_. A frontend developer from the Philippines. Currently working as a remote dev for an AUS based company.
 
 ## 🔧 Technologies, frameworks, libraries I use
 
