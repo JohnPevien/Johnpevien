@@ -2,9 +2,9 @@
 
 # Hey there! 👋
 
-My name's _John Pevien_. A frontend developer from the Philippines. Currently working as a remote frontend dev.
+My name's _John Pevien_. A frontend developer from the Philippines. I'm a website wizard 🪄 with a love for all things tech. I create websites that not only look good but also deliver on functionality. I believe in making the internet a better place, one website at a time.
 
-## 🔧 Technologies, frameworks, libraries I use
+## 🔧 Technologies, frameworks, libraries and platforms
 
 <br>
 
@@ -18,6 +18,11 @@ My name's _John Pevien_. A frontend developer from the Philippines. Currently wo
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+
+![Shopify](https://img.shields.io/static/v1?style=for-the-badge&message=Shopify&color=222222&logo=Shopify&logoColor=7AB55C&label=)
+![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)
+![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=222222&logo=Netlify&logoColor=00C7B7&label=)
+![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=)
 
 <br>
 
