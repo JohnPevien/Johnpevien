@@ -30,7 +30,7 @@ My name's _John Pevien_. A frontend developer from the Philippines. I'm a websit
 
 <br>
 
-You can reach me through [Twitter](https://twitter.com/JohnPevien), [LinkedIn](https://www.linkedin.com/in/johnpevien/), [Facebook](https://www.facebook.com/johnpevien).
+You can find me at various places around the web, including [Twitter](https://twitter.com/JohnPevien), [LinkedIn](https://www.linkedin.com/in/johnpevien/). Or send me an email at me@johnpevien.dev
 
 <br>
 
