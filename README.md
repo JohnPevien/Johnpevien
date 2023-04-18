@@ -32,14 +32,6 @@ My name's _John Pevien_. A frontend developer from the Philippines. I'm a websit
 
 You can find me at various places around the web, including [Twitter](https://twitter.com/JohnPevien), [LinkedIn](https://www.linkedin.com/in/johnpevien/). Or send me an email at me@johnpevien.dev
 
-<br>
-
-## 📈 Stats
-
-<br>
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=johnpevien&count_private=true&theme=synthwave)](https://github.com/johnpevien/github-readme-stats)
-
 <!--
 **JohnPevien/Johnpevien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
