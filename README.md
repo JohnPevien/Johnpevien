@@ -30,7 +30,7 @@ My name's _John Pevien_. A frontend developer from the Philippines. I'm a websit
 
 <br>
 
-You can find me at various places around the web, including [Twitter](https://twitter.com/JohnPevien), [LinkedIn](https://www.linkedin.com/in/johnpevien/). Or send me an email at johnpevienlaguindam@gmail.com
+You can find me at various places around the web, including [Twitter](https://twitter.com/JohnPevien), [LinkedIn](https://www.linkedin.com/in/johnpevien/). Or send me an email at johnpevien.dev@gmail.com
 
 <!--
 **JohnPevien/Johnpevien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
